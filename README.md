@@ -11,7 +11,7 @@ This project analyzes IPL match data using Python, Pandas, Matplotlib, and Seabo
 - ## Dataset
 
 Download the IPL dataset from:
-https://www.kaggle.com/datasets
+[https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020)
 
 ## Technologies Used
 - Python
