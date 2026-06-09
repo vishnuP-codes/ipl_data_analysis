@@ -8,6 +8,11 @@ This project analyzes IPL match data using Python, Pandas, Matplotlib, and Seabo
 - matches.csv
 - deliveries.csv
 
+- ## Dataset
+
+Download the IPL dataset from:
+https://www.kaggle.com/datasets
+
 ## Technologies Used
 - Python
 - Pandas
